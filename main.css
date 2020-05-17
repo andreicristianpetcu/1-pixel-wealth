@@ -818,3 +818,15 @@ h3 {
 .all-of-them .title {
   width: 370px;
 }
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.bottom img {
+  width: auto;
+  height: 20px;
+  padding: 5px;
+}
