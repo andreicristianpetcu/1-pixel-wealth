@@ -126,7 +126,7 @@ h3 {
   margin-top: 5px;
 }
 .wealth-wrapper {
-  margin: 1em 3em;
+  margin: 0em 3em;
 }
 .wealth {
   background-color: black;
@@ -176,7 +176,7 @@ h3 {
 .infobox .title-square-wrapper,
 .infobox .title {
   font-weight: normal;
-  line-height: 1.4;
+  line-height: 1.1;
   width: 96vw;
   max-width: 600px;
 }
